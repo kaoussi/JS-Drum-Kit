@@ -21,6 +21,12 @@
 		"oAP": "\/index-START.html",
 		"oF": 0
 		},
+	"\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
 	"\/sounds\/boom.wav": {
 		"ft": 8192,
 		"oA": 2,
